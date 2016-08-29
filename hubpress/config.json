@@ -4,7 +4,12 @@
     "repositoryName": "hbspractise",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "My Info Notes",
+    "description": "A small blog about small techie things"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
